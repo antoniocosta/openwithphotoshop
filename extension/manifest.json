@@ -2,7 +2,7 @@
 	"name": "Open with Photoshop",
 	"short_name": "Open with PS",
 	"description": "Open images with Adobe Photoshop with a quick right mouse button click.",
-	"version": "0.1",
+	"version": "0.2",
 	"permissions": ["contextMenus","nativeMessaging"],
 	"icons": {
 		"16": "icon-xs.png",
