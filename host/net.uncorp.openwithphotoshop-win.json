@@ -8,5 +8,5 @@
 	"description": "Open with Photoshop",
 	"path": "net.uncorp.openwithphotoshop.bat",
 	"type": "stdio",
-	"allowed_origins": ["chrome-extension://edjmahjbkohdfncajmkcfcepdjiepdjk/"]
+	"allowed_origins": ["chrome-extension://bfminobcmliekphgidjjdpcieidnemak/"]
 }
