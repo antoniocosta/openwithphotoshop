@@ -1,0 +1,20 @@
+// Copyright 2014, uncorp.net
+// Based on example source by The Chromium Authors
+// http://src.chromium.org/viewvc/chrome/trunk/src/chrome/common/extensions/docs/examples/api/nativeMessaging/
+// All rights reserved.
+// Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.
+{
+	"name": "Open with Photoshop",
+	"description": "Open images with Adobe Photoshop with a quick right mouse button click.",
+	"version": "0.1",
+	"permissions": ["contextMenus","nativeMessaging"],
+	"icons": {
+		"16": "icon-xs.png",
+		"48": "icon-s.png",
+		"128": "icon-l.png"
+	},
+	"background": {
+		"scripts": ["main.js"]
+	},
+	"manifest_version": 2
+}
