@@ -6,9 +6,9 @@
 # Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.
 
 # WEB UNINSTALL COMMAND:
-# wget http://uncorp.net/openwithphotoshop/uninstall.sh -O - | sh
+# wget https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/uninstall.sh -O - | sh
 
-wget http://uncorp.net/openwithphotoshop/host_uninstall.sh
+wget https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/host_uninstall.sh
 chmod 755 host_uninstall.sh
 ./host_uninstall.sh
 rm host_uninstall.sh

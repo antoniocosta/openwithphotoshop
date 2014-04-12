@@ -6,11 +6,11 @@
 # Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.
 
 # WEB INSTALL COMMAND:
-# wget http://uncorp.net/openwithphotoshop/install.sh -O - | sh
+# wget https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/install.sh -O - | sh
 
-wget http://uncorp.net/openwithphotoshop/host_install.sh
-wget http://uncorp.net/openwithphotoshop/net.uncorp.openwithphotoshop.json
-wget http://uncorp.net/openwithphotoshop/net.uncorp.openwithphotoshop.py
+wget https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/host_install.sh
+wget https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/net.uncorp.openwithphotoshop.json
+wget https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/net.uncorp.openwithphotoshop.py
 chmod 755 host_install.sh
 ./host_install.sh
 rm host_install.sh
