@@ -2,7 +2,7 @@
 
 ###Open images with Adobe Photoshop directly from Chrome, with a quick right mouse button click.
 
-![screenshot](http://lh4.googleusercontent.com/Hie1Uyl-8a_XnM_5Rp_6msPXzoCsSsRLEWuRNFoM6MtIR7CENXEvEvpFV4BEhVtyaEojel2tdDU=s1280-h800-e365-rw)
+![screenshot](http://lh4.googleusercontent.com/Hie1Uyl-8a_XnM_5Rp_6msPXzoCsSsRLEWuRNFoM6MtIR7CENXEvEvpFV4BEhVtyaEojel2tdDU=s1280-h800-e365-)
 
 Handy for designers and inspired by the [Firefox plugin](https://addons.mozilla.org/en-US/firefox/addon/open-with-photoshop/) by the same name.
 
