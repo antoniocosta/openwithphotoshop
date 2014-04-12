@@ -4,7 +4,7 @@
 
 ![screenshot](http://lh4.googleusercontent.com/Hie1Uyl-8a_XnM_5Rp_6msPXzoCsSsRLEWuRNFoM6MtIR7CENXEvEvpFV4BEhVtyaEojel2tdDU=s1280-h800-e365-)
 
-Handy for designers and inspired by the [Firefox plugin](https://addons.mozilla.org/en-US/firefox/addon/open-with-photoshop/) by the same name.
+Handy for designers and inspired by the [Firefox plugin](https://addons.mozilla.org/en-US/firefox/addon/open-with-photoshop/) with the same name.
 
 [Extension](http://goo.gl/Fy982M) uses native [Chrome's messaging API](https://developer.chrome.com/extensions/messaging), so in order for it to work (and besides said [extension](http://goo.gl/Fy982M)), you must ALSO install a native messaging host. Tested and working on **Mac OS X only**. 
 
@@ -15,8 +15,8 @@ To install host:
 To uninstall host:
 
 	curl -s https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/install.sh | sh
-	
-	
+
+[Full source on github](http://goo.gl/tb0ZIz).
 
 ---
 
