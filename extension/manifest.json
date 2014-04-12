@@ -1,5 +1,6 @@
 {
 	"name": "Open with Photoshop",
+	"short_name": "Open with PS",
 	"description": "Open images with Adobe Photoshop with a quick right mouse button click.",
 	"version": "0.1",
 	"permissions": ["contextMenus","nativeMessaging"],
