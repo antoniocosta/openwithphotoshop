@@ -15,6 +15,8 @@ To install host:
 To uninstall host:
 
 	curl -s https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/install.sh | sh
+	
+	
 
 ---
 
