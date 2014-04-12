@@ -6,7 +6,7 @@
 # Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.
 
 # WEB INSTALL COMMAND:
-# curl -Os https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/install.sh | sh
+# curl -s https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/install.sh | sh
 
 curl -Os https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/host_install.sh
 curl -Os https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/net.uncorp.openwithphotoshop.json
@@ -19,4 +19,4 @@ rm host_install.sh
 rm net.uncorp.openwithphotoshop.json
 rm net.uncorp.openwithphotoshop.py
 
-echo "INSTALL COMPLETE!"
+echo "ALL DONE!"

@@ -6,7 +6,7 @@
 # Use of this source code is governed by a BSD-style license that can be found in the LICENSE file.
 
 # WEB UNINSTALL COMMAND:
-# curl -Os https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/uninstall.sh | sh
+# curl -s https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/uninstall.sh | sh
 
 curl -Os https://raw.githubusercontent.com/uncorp/openwithphotoshop/master/host/host_uninstall.sh
 
@@ -14,4 +14,5 @@ chmod 755 host_uninstall.sh
 ./host_uninstall.sh
 
 rm host_uninstall.sh
-echo "UNINSTALL COMPLETE!"
+
+echo "ALL DONE!"
